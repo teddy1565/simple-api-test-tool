@@ -1,0 +1,14 @@
+{
+    "get":{
+        "test1":{
+            "path":"http://127.0.0.1:3000/"
+        },
+        "test2":{
+            "path":"http://127.0.0.1:3000/",
+            "payload":{
+                "username":"root",
+                "password":123
+            }
+        }
+    }
+}
